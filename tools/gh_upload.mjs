@@ -13,7 +13,7 @@ const ignored = (rel) =>
   rel.startsWith("out/") ||
   rel.endsWith(".DS_Store") ||
   /^public\/(music|sfx)\/.+\.mp3$/.test(rel) ||
-  (/^public\/fonts\//.test(rel) && !rel.endsWith(".gitkeep")) ||
+  (/^public\/fonts\/.+/.test(rel) && !rel.endsWith(".gitkeep")) ||
   /\.(mp4|mov|MOV)$/.test(rel);
 
 const files = [];
