@@ -1,0 +1,20 @@
+{
+  "name": "b-opsiyonu",
+  "private": true,
+  "description": "B opsiyonu: telefon videolarından Bilal tarzı dikey Shorts kurgusu (Remotion)",
+  "scripts": {
+    "studio": "remotion studio",
+    "assets": "bash tools/download_assets.sh",
+    "render": "bash tools/render_b.sh"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.533",
+    "@remotion/fonts": "4.0.533",
+    "@remotion/layout-utils": "4.0.533",
+    "@types/react": "^19.3.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "4.0.533",
+    "typescript": "^7.0.2"
+  }
+}

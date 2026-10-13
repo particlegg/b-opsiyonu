@@ -1,0 +1,12 @@
+node_modules/
+out/
+.DS_Store
+# Lisansları yeniden dağıtıma izin vermeyen dosyalar (tools/download_assets.sh ile indirilir / kendin eklersin)
+public/music/*.mp3
+public/sfx/*.mp3
+public/fonts/*
+!public/fonts/.gitkeep
+# Videolar (büyük + kişisel)
+public/*/*.mp4
+public/*/*.mov
+*.MOV

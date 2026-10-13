@@ -1,0 +1,52 @@
+{
+ "funny_bgm": {
+  "p90": -8.6,
+  "median": -13.7,
+  "duration": 62.04
+ },
+ "funny_bouncy": {
+  "p90": -8.3,
+  "median": -11.4,
+  "duration": 57.38
+ },
+ "hiphop_vlog": {
+  "p90": -8.2,
+  "median": -11.5,
+  "duration": 41.43
+ },
+ "lofi_chill": {
+  "p90": -8.4,
+  "median": -11.7,
+  "duration": 145.39
+ },
+ "quirky": {
+  "p90": -8,
+  "median": -11.8,
+  "duration": 35.04
+ },
+ "sneaky": {
+  "p90": -11.5,
+  "median": -15.6,
+  "duration": 81.27
+ },
+ "upbeat": {
+  "p90": -9.9,
+  "median": -13.1,
+  "duration": 31.76
+ },
+ "vlog_beats": {
+  "p90": -7.1,
+  "median": -12.2,
+  "duration": 117.37
+ },
+ "vlog_food": {
+  "p90": -12.6,
+  "median": -16.3,
+  "duration": 112.32
+ },
+ "vlog_sunny": {
+  "p90": -6.9,
+  "median": -11.1,
+  "duration": 192.62
+ }
+}
